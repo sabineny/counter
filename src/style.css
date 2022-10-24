@@ -1,0 +1,20 @@
+/* .box-wrapper{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+.box-item{
+ width: 300px;
+ padding: 10px;
+ height: auto;
+} */
+
+.counter{
+    margin-left: 50px;
+    size: 30px;
+}
+button{
+    width: 60px;
+    display: block;
+    font-size: 20px;
+}
